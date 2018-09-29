@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,KACE,UAAY,CACb","file":"../app.scss","sourcesContent":["body {\n  color: blue;\n}"]}
