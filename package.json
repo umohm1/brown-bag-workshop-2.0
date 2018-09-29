@@ -1,0 +1,11 @@
+{
+  "name": "brown-bag-workshop-2.0",
+  "version": "1.0.0",
+  "description": "An application that interacts with the Unsplash API",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mary Umoh",
+  "license": "ISC"
+}
